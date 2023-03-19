@@ -1,0 +1,299 @@
+player_id,player_name,shirt_number,country,league,gender
+1,Piyanut Pannoy,2,THA,w,female
+2,Leia Henrique Da Silva Nicolosi,19,BRA,w,female
+3,Lenka D�rr,1,GER,w,female
+4,Mako Kobata,14,JPN,w,female
+5,Larysmer Martinez Caro,25,DOM,w,female
+6,Zhana Todorova,15,BUL,w,female
+7,Anna Valkenborg,22,BEL,w,female
+8,Britt Rampelberg,25,BEL,w,female
+9,Nat�lia Araujo,26,BRA,w,female
+10,Li Lin,15,CHN,w,female
+11,Mengjie Wang,18,CHN,w,female
+12,Feifan Ni,21,CHN,w,female
+13,Yaneirys Rodriguez Duran,2,DOM,w,female
+14,Anna Pogany,17,GER,w,female
+15,Natalie Wilczek,23,GER,w,female
+16,Monica De Gennaro,6,ITA,w,female
+17,Beatrice Parrocchiale,20,ITA,w,female
+18,Akane Moriya,18,JPN,w,female
+19,Yeongyeon Kim,16,KOR,w,female
+20,Jung-Won Moon,18,KOR,w,female
+21,Jiyoung Oh,20,KOR,w,female
+22,Kirsten Knip,1,NED,w,female
+23,Myrthe Schoot,9,NED,w,female
+24,Maria Stenzel,8,POL,w,female
+25,Paulina Maj-Erwardt,13,POL,w,female
+26,Daria Chikrizova,4,RUS,w,female
+27,Alla Galkina,9,RUS,w,female
+28,Kristina Kurnosova,24,RUS,w,female
+29,Teodora Pusic,12,SRB,w,female
+30,Aleksandra Tadic,30,SRB,w,female
+31,Marija Popovic,31,SRB,w,female
+32,Bojana Gocanin,32,SRB,w,female
+33,Simge Sebnem Akoz,2,TUR,w,female
+34,Aylin Sario_lu,20,TUR,w,female
+35,Megan Courtney,17,USA,w,female
+36,Andrea Drews,11,USA,w,female
+37,Brayelin Elizabeth Martinez,20,DOM,w,female
+38,Ebrar Karakurt,99,TUR,w,female
+39,Elena Pietrini,14,ITA,w,female
+40,Gabriela Braga Guimaraes,10,BRA,w,female
+41,Malwina Smarzek,17,POL,w,female
+42,Meliha Ismailoglu,9,TUR,w,female
+43,Xiangyu Gong,6,CHN,w,female
+44,Yeon Koung Kim,10,KOR,w,female
+45,Chatchu-On Moksri,19,THA,w,female
+46,Indre Sorokaite,1,ITA,w,female
+47,Louisa Lippmann,11,GER,w,female
+48,Britt Herbots,3,BEL,w,female
+49,Margarita Kurilo,11,RUS,w,female
+50,Ana Paula Borgo Bedani Guedes,5,BRA,w,female
+51,Kseniia Parubets,18,RUS,w,female
+52,Ai Kurogo,16,JPN,w,female
+53,Hanna Orthmann,12,GER,w,female
+54,Bethania De La Cruz De Pe�a,18,DOM,w,female
+55,Natalia Medrzyk,16,POL,w,female
+56,Magdalena Stysiak,9,POL,w,female
+57,Katarina Lazovic,2,SRB,w,female
+58,Tatiana Iurinskaia,22,RUS,w,female
+59,Seungju Pyo,2,KOR,w,female
+60,Kaja Grobelna,8,BEL,w,female
+61,Yuki Ishii,7,JPN,w,female
+62,Ajcharaporn Kongyot,18,THA,w,female
+63,Onuma Sittirak,6,THA,w,female
+64,Miroslava Paskova,6,BUL,w,female
+65,Gergana Dimitrova,1,BUL,w,female
+66,Celine Van Gestel,7,BEL,w,female
+67,Sohwi Kang,15,KOR,w,female
+68,Heejin Kim,4,KOR,w,female
+69,Malika Kanthong,15,THA,w,female
+70,Elise Van Sas,2,BEL,w,female
+71,Nathalie Lemmens,4,BEL,w,female
+72,Dominika Sobolska,10,BEL,w,female
+73,Dominika Strumilo,12,BEL,w,female
+74,Marlies Janssens,13,BEL,w,female
+75,Jutta Van De Vyver,15,BEL,w,female
+76,Karolina Goliat,16,BEL,w,female
+77,Ilka Van De Vyver,17,BEL,w,female
+78,Silke Van Avermaet,19,BEL,w,female
+79,Jodie Guilliams,20,BEL,w,female
+80,Manon Stragier,21,BEL,w,female
+81,Mara Ferreira Leao,1,BRA,w,female
+82,Macris Fernanda Silva Carneiro,3,BRA,w,female
+83,Lara Nobre Cardoso G Filomeno,4,BRA,w,female
+84,Julia Isabelle Bergmann,6,BRA,w,female
+85,Roberta Silva Ratzke,9,BRA,w,female
+86,Tainara Lemes Santos,11,BRA,w,female
+87,Natalia Pereira,12,BRA,w,female
+88,Amanda Francisco,13,BRA,w,female
+89,Ana Carolina Da Silva,15,BRA,w,female
+90,Ana Beatriz Correa,20,BRA,w,female
+91,Lorenne Geraldo Teixeira,24,BRA,w,female
+92,Milka Marc�lia Medeiros Silva,25,BRA,w,female
+93,Mayany Cristina Araujo De Souza,28,BRA,w,female
+94,Nasya Dimitrova,2,BUL,w,female
+95,Maria Dancheva,4,BUL,w,female
+96,Simona Dimitrova,5,BUL,w,female
+97,Lora Kitipova,7,BUL,w,female
+98,Petya Barakova,8,BUL,w,female
+99,Mira Todorova,10,BUL,w,female
+100,Mariya Karakasheva,12,BUL,w,female
+101,Elena Becheva,17,BUL,w,female
+102,Silvana Chausheva,18,BUL,w,female
+103,Mariya Krivoshiyska,20,BUL,w,female
+104,Xinyue Yuan,1,CHN,w,female
+105,Ting Zhu,2,CHN,w,female
+106,Linyu Diao,3,CHN,w,female
+107,Hanyu Yang,4,CHN,w,female
+108,Mingyuan Hu,5,CHN,w,female
+109,Yuanyuan Wang,7,CHN,w,female
+110,Chunlei Zeng,8,CHN,w,female
+111,Changning Zhang,9,CHN,w,female
+112,Xiaotong Liu,10,CHN,w,female
+113,Di Yao,11,CHN,w,female
+114,Yingying Li,12,CHN,w,female
+115,Yixin Zheng,14,CHN,w,female
+116,Xia Ding,16,CHN,w,female
+117,Ni Yan,17,CHN,w,female
+118,Yanhan Liu,19,CHN,w,female
+119,Fang Duan,20,CHN,w,female
+120,Qingqing Du,23,CHN,w,female
+121,Ye Jin,26,CHN,w,female
+122,Lisvel Elisa Eve Mejia,3,DOM,w,female
+123,Niverka Dharlenis Marte Frica,7,DOM,w,female
+124,Candida Estefany Arias Perez,8,DOM,w,female
+125,Marifranchi Rodriguez,11,DOM,w,female
+126,Yokaty Perez Flores,12,DOM,w,female
+127,Prisilla Rivera Brens,14,DOM,w,female
+128,Yonkaira Paola Pe�a Isabel,16,DOM,w,female
+129,Jineiry Martinez,21,DOM,w,female
+130,Erasma Moreno Martinez,22,DOM,w,female
+131,Gaila Ceneida Gonzalez Lopez,23,DOM,w,female
+132,Pia K�stner,2,GER,w,female
+133,Denise Hanke,3,GER,w,female
+134,Selma Hetmann,4,GER,w,female
+135,Jana Franziska Poll,5,GER,w,female
+136,Jennifer Geerties,6,GER,w,female
+137,Nele Barber,7,GER,w,female
+138,Kimberly Drewniok,8,GER,w,female
+139,Lena Stigrot,10,GER,w,female
+140,Denise Imoudu,13,GER,w,female
+141,Marie Sch�lzel,14,GER,w,female
+142,Linda Bock,16,GER,w,female
+143,Leonie Schwertmann,18,GER,w,female
+144,Lisa Gr�nding,22,GER,w,female
+145,Sara Alberti,2,ITA,w,female
+146,Ofelia Malinov,5,ITA,w,female
+147,Alessia Orro,8,ITA,w,female
+148,Caterina Bosetti,9,ITA,w,female
+149,Cristina Chirichella,10,ITA,w,female
+150,Anna Danesi,11,ITA,w,female
+151,Sarah Luisa Fahr,13,ITA,w,female
+152,Lucia Bosetti,16,ITA,w,female
+153,Miryam Fatime Sylla,17,ITA,w,female
+154,Paola Ogechi Egonu,18,ITA,w,female
+155,Anna Nicoletti,22,ITA,w,female
+156,Francesca Villani,23,ITA,w,female
+157,Sarina Koga,2,JPN,w,female
+158,Nana Iwasaka,3,JPN,w,female
+159,Risa Shinnabe,4,JPN,w,female
+160,Haruka Miyashita,6,JPN,w,female
+161,Yurie Nabeya,11,JPN,w,female
+162,Miya Sato,12,JPN,w,female
+163,Mai Okumura,13,JPN,w,female
+164,Aya Watanabe,20,JPN,w,female
+165,Miwako Osanai,21,JPN,w,female
+166,Aika Akutagawa,24,JPN,w,female
+167,Nanami Seki,25,JPN,w,female
+168,Miyu Nakagawa,27,JPN,w,female
+169,Juah Lee,9,KOR,w,female
+170,Su Ji Kim,11,KOR,w,female
+171,Dae-Young Jung,12,KOR,w,female
+172,Eunjin Park,14,KOR,w,female
+173,Dayeong Lee,19,KOR,w,female
+174,Jiyun Jeong,22,KOR,w,female
+175,Sooji Han,26,KOR,w,female
+176,Eun-Ji Choi,30,KOR,w,female
+177,Yvon Belien,3,NED,w,female
+178,Celeste Plak,4,NED,w,female
+179,Maret Balkestein-Grothues,6,NED,w,female
+180,Juliet Lohuis,7,NED,w,female
+181,Demi Korevaar,8,NED,w,female
+182,Lonneke Sl�etjes,10,NED,w,female
+183,Anne Buijs,11,NED,w,female
+184,Britt Bongaerts,12,NED,w,female
+185,Hester Jasper,13,NED,w,female
+186,Laura Dijkema,14,NED,w,female
+187,Indy Baijens,16,NED,w,female
+188,Nicole Oude Luttikhuis,17,NED,w,female
+189,Marrit Jasper,18,NED,w,female
+190,Nika Daalderop,19,NED,w,female
+191,Tessa Polder,20,NED,w,female
+192,Annick Meijers,21,NED,w,female
+193,Nicole Koolhaas,22,NED,w,female
+194,Sarah Van Aalen,26,NED,w,female
+195,Anniek Siebring,30,NED,w,female
+196,Eline Timmerman,31,NED,w,female
+197,Julia Nowicka,1,POL,w,female
+198,Klaudia Alagierska,3,POL,w,female
+199,Kamila Witkowska,4,POL,w,female
+200,Agnieszka Kakolewska,5,POL,w,female
+201,Zuzanna Efimienko-Mlotkowska,10,POL,w,female
+202,Monika Bociek,11,POL,w,female
+203,Joanna Wolosz,14,POL,w,female
+204,Martyna Grajber,15,POL,w,female
+205,Olivia Rozanski,19,POL,w,female
+206,Marlena Kowalewska,20,POL,w,female
+207,Zuzanna Gorecka,23,POL,w,female
+208,Angelina Lazarenko,1,RUS,w,female
+209,Ekaterina Efimova,3,RUS,w,female
+210,Ekaterina Orlova,5,RUS,w,female
+211,Tatiana Romanova,7,RUS,w,female
+212,Daria Ryseva,12,RUS,w,female
+213,Evgeniya Startseva,13,RUS,w,female
+214,Irina Voronkova,16,RUS,w,female
+215,Valeriya Zaytseva,17,RUS,w,female
+216,Mariia Khaletskaia,19,RUS,w,female
+217,Maria Vorobyeva,20,RUS,w,female
+218,Anna Kotikova,21,RUS,w,female
+219,Olga Zubareva,23,RUS,w,female
+220,Sofya Kuznetsova,25,RUS,w,female
+221,Polina Matveeva,27,RUS,w,female
+222,Victoriia Russu,29,RUS,w,female
+223,Bianka Busa,1,SRB,w,female
+224,Emilija Antanasijevic,4,SRB,w,female
+225,Mina Popovic,5,SRB,w,female
+226,Maja Savic,6,SRB,w,female
+227,Katarina Jovic,7,SRB,w,female
+228,Sladjana Mirkovic,8,SRB,w,female
+229,Brankica Mihajlovic,9,SRB,w,female
+230,Stefana Veljkovic,11,SRB,w,female
+231,Ana Bjelica,13,SRB,w,female
+232,Maja Aleksic,14,SRB,w,female
+233,Tijana Bo_kovic,18,SRB,w,female
+234,Jelena Blagojevic,20,SRB,w,female
+235,Jovana Kocic,21,SRB,w,female
+236,Sara Lozo,22,SRB,w,female
+237,Mila Djordjevic,23,SRB,w,female
+238,Aleksandra Cirovic,24,SRB,w,female
+239,Ana Pejicic,28,SRB,w,female
+240,Milica Kubura,29,SRB,w,female
+241,Wipawee Srithong,1,THA,w,female
+242,Pleumjit Thinkaow,5,THA,w,female
+243,Watchareeya Nuanjam,8,THA,w,female
+244,Wanitchaya Luangtonglang,9,THA,w,female
+245,Wilavan Apinyapong,10,THA,w,female
+246,Amporn Hyapha,11,THA,w,female
+247,Nootsara Tomkom,13,THA,w,female
+248,Gullapa Piampongsan,21,THA,w,female
+249,Jutarat Montripila,23,THA,w,female
+250,Tichakorn Boonlert,24,THA,w,female
+251,Cansu �zbay,3,TUR,w,female
+252,Seyma Ercan,5,TUR,w,female
+253,Kubra Caliskan,6,TUR,w,female
+254,Hande Baladin,7,TUR,w,female
+255,Buse Unal,8,TUR,w,female
+256,Ezgi Dilik,11,TUR,w,female
+257,G�zde Yilmaz,12,TUR,w,female
+258,Meryem Boz,13,TUR,w,female
+259,Yasemin Guveli,16,TUR,w,female
+260,Zehra Gunes,18,TUR,w,female
+261,Asli Kalac,19,TUR,w,female
+262,Fatma Yildirim,21,TUR,w,female
+263,Micha Hancock,1,USA,w,female
+264,Jordyn Poulter,2,USA,w,female
+265,Carli Lloyd,3,USA,w,female
+266,Tetori Dixon,6,USA,w,female
+267,Lauren Carlini,7,USA,w,female
+268,Lauren Gibbemeyer,8,USA,w,female
+269,Madison Kingdon Rishel,9,USA,w,female
+270,Jordan Larson,10,USA,w,female
+271,Jordan Thompson,12,USA,w,female
+272,Sarah Wilhite,13,USA,w,female
+273,Michelle Bartsch-Hackley,14,USA,w,female
+274,Mikaela Foecke,18,USA,w,female
+275,Hannah Tapp,19,USA,w,female
+276,Dana Rettke,20,USA,w,female
+277,Simone Lee,21,USA,w,female
+278,Sylvia Chinelo Nwakalor,15,ITA,w,female
+279,Hyo Hee Lee,5,KOR,w,female
+280,Hyejin An,6,KOR,w,female
+281,Chitaporn Kamlangmak,14,THA,w,female
+282,Supattra Pairoj,20,THA,w,female
+283,Mary Lake,27,USA,w,female
+284,Monika Jag_a,24,POL,w,female
+285,Tikamporn Changkeaw,28,THA,w,female
+286,Yan Sun,13,CHN,w,female
+287,Mirela Shahpazova,13,BUL,w,female
+288,Kelsey Robinson,23,USA,w,female
+289,Chiaka Ogbogu,24,USA,w,female
+290,Haleigh Washington,22,USA,w,female
+291,Silvia Andreeva,25,BUL,w,female
+292,Karsta Lowe,25,USA,w,female
+293,Dayeong Lee,19,KOR,w,female
+294,Ofelia Malinov,5,ITA,w,female
+295,Tatiana Romanova,7,RUS,w,female
+296,Carli Lloyd,3,USA,w,female
+297,Aleksandra Cirovic,24,SRB,w,female
+298,Haleigh Washington,22,USA,w,female

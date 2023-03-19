@@ -1,4 +1,4 @@
-use volleyball;
+-- use volleyball;
 
 DROP TABLE IF EXISTS hitters;
 DROP TABLE IF EXISTS passers;
@@ -22,7 +22,7 @@ CREATE TABLE hitters(
   player_id        BIGINT UNSIGNED,
   num_hits         INT            NOT NULL,
   hit_faults       INT            NOT NULL,
-  hit_percentage   NUMERIC(4,2)   NOT NULL,
+  hit_percentage   NUMERIC(4,2),
   PRIMARY KEY (player_id),
   FOREIGN KEY (player_id) REFERENCES player(player_id) 
   ON UPDATE CASCADE ON DELETE CASCADE
@@ -35,7 +35,7 @@ CREATE TABLE passers(
   num_digs              INT    NOT NULL,
   dig_faults            INT    NOT NULL,
   num_receptions        INT    NOT NULL,
-  num_reception_faults  INT    NOT NULL,
+  num_reception_faults  INT,
   PRIMARY KEY (player_id),
   FOREIGN KEY (player_id) REFERENCES player(player_id) 
   ON UPDATE CASCADE ON DELETE CASCADE
@@ -58,7 +58,7 @@ CREATE TABLE blockers(
   player_id      BIGINT UNSIGNED,
   num_blocks     INT    NOT NULL,
   block_faults   INT    NOT NULL,
-  block_set_avg  INT    NOT NULL,
+  block_set_avg  INT,
   PRIMARY KEY (player_id),
   FOREIGN KEY (player_id) REFERENCES player(player_id) 
   ON UPDATE CASCADE ON DELETE CASCADE
