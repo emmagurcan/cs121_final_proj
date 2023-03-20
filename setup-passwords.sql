@@ -1,5 +1,5 @@
 -- File for Password Management section of Final Project
-use passwords;
+SET GLOBAL log_bin_trust_function_creators = 1;
 DROP FUNCTION IF EXISTS make_salt;
 DROP PROCEDURE IF EXISTS sp_add_user;
 DROP TABLE IF EXISTS user_info;
@@ -8,7 +8,7 @@ DROP FUNCTION IF EXISTS authenticate;
 -- salt in passwords.
 DELIMITER !
 CREATE FUNCTION make_salt(num_chars INT) 
-RETURNS VARCHAR(20) DETERMINISTIC
+RETURNS VARCHAR(20) NOT DETERMINISTIC
 BEGIN
     DECLARE salt VARCHAR(20) DEFAULT '';
 
